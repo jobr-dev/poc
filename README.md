@@ -22,7 +22,7 @@ To run the script (_requires admin sign-in and PnP.PowerShell module_):
 ```ps
 (powershell)
 
-cd .\provisioning\
+cd \provisioning\
 \provisioning> .\Provisioning-Engine.ps1
 ```
 
@@ -69,14 +69,14 @@ Used in demo environment:
 ### Install packages
 
 ```cmd
-cd .\document-portal\
+cd \document-portal\
 \document-portal> npm i
 ```
 
 ### Create app package
 
 ```cmd
-cd .\document-portal\
+cd \document-portal\
 \document-portal> gulp bundle --ship
 \document-portal> gulp package-solution --ship
 ```
