@@ -19,9 +19,8 @@ To provision the opportunities `\provisioning\Provisioning-Engine.ps1` is used. 
 
 To run the script (_requires admin sign-in and PnP.PowerShell module_):
 
-```ps
-(powershell)
-
+_(powershell)_
+```powershell
 cd \provisioning\
 \provisioning> .\Provisioning-Engine.ps1
 ```
@@ -47,9 +46,9 @@ Once update with the corresponding GUID all files in the \_\teams\_ can be packa
 - manifest.json
 - outline.png
 
-```powershell
-(powershell)
 
+_(powershell)_
+```powershell
 cd \teams\
 \teams> Compress-Archive "manifest.json","color.png","outline.png" manifest.zip
 ```
