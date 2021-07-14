@@ -50,7 +50,7 @@ Once update with the corresponding GUID all files in the \_\teams\_ can be packa
 ```powershell
 (powershell)
 
-cd .\teams\
+cd \teams\
 \teams> Compress-Archive "manifest.json","color.png","outline.png" manifest.zip
 ```
 
