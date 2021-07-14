@@ -1,0 +1,10 @@
+.base {
+  div {
+    color: "[theme: black, default: #0078d7]";
+  }
+  [class*="itemContent"][class*="noCheckBox"]:not([class*="checked"]) {
+    :hover {
+      color: "[theme: hover, default: #0078d7]";
+    }
+  }
+}
