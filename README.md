@@ -4,8 +4,8 @@
 
 The Banker Portal solution consists of 3 main folders:
 
-- _\\.provisioning\\_
-- _\\.teams\\_
+- _\\provisioning\\_
+- _\\teams\\_
 - _\\document-portal\\_
 
 Any directory paths provided in examples below have been removed for clarity and brevity.
