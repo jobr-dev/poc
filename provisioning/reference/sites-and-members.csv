@@ -1,0 +1,101 @@
+Client,OppId,Members
+Adidas,adi-opp-001,PattiF@spportaldemo.OnMicrosoft.com|NestorW@spportaldemo.OnMicrosoft.com|MeganB@spportaldemo.OnMicrosoft.com|LynneR@spportaldemo.OnMicrosoft.com
+Adidas,adi-opp-002,MeganB@spportaldemo.OnMicrosoft.com|LynneR@spportaldemo.OnMicrosoft.com|JoniS@spportaldemo.OnMicrosoft.com|AlexW@spportaldemo.OnMicrosoft.com
+AMD,amd-opp-003,AllanD@spportaldemo.OnMicrosoft.com|JoniS@spportaldemo.OnMicrosoft.com
+AMD,amd-opp-004,DiegoS@spportaldemo.OnMicrosoft.com|PattiF@spportaldemo.OnMicrosoft.com
+Barnes & Noble,bar-opp-005,NestorW@spportaldemo.OnMicrosoft.com|PattiF@spportaldemo.OnMicrosoft.com|DiegoS@spportaldemo.OnMicrosoft.com
+Barnes & Noble,bar-opp-006,LynneR@spportaldemo.OnMicrosoft.com|DiegoS@spportaldemo.OnMicrosoft.com|PattiF@spportaldemo.OnMicrosoft.com
+Cascade Bancorp,cas-opp-007,AlexW@spportaldemo.OnMicrosoft.com|MeganB@spportaldemo.OnMicrosoft.com|JoniS@spportaldemo.OnMicrosoft.com
+Cascade Bancorp,cas-opp-008,MeganB@spportaldemo.OnMicrosoft.com|DiegoS@spportaldemo.OnMicrosoft.com
+Cascade Bancorp,cas-opp-009,AllanD@spportaldemo.OnMicrosoft.com|NestorW@spportaldemo.OnMicrosoft.com|PattiF@spportaldemo.OnMicrosoft.com|AlexW@spportaldemo.OnMicrosoft.com
+Cascade Bancorp,cas-opp-010,AllanD@spportaldemo.OnMicrosoft.com|DiegoS@spportaldemo.OnMicrosoft.com|MeganB@spportaldemo.OnMicrosoft.com
+Dior,dio-opp-011,IsaiahL@spportaldemo.OnMicrosoft.com|DiegoS@spportaldemo.OnMicrosoft.com
+Dior,dio-opp-012,NestorW@spportaldemo.OnMicrosoft.com|PattiF@spportaldemo.OnMicrosoft.com|MeganB@spportaldemo.OnMicrosoft.com
+Dior,dio-opp-013,DiegoS@spportaldemo.OnMicrosoft.com|LynneR@spportaldemo.OnMicrosoft.com|AlexW@spportaldemo.OnMicrosoft.com|MeganB@spportaldemo.OnMicrosoft.com
+Dior,dio-opp-014,AlexW@spportaldemo.OnMicrosoft.com|JoniS@spportaldemo.OnMicrosoft.com|PattiF@spportaldemo.OnMicrosoft.com|NestorW@spportaldemo.OnMicrosoft.com
+Etsy,ets-opp-015,IsaiahL@spportaldemo.OnMicrosoft.com|LynneR@spportaldemo.OnMicrosoft.com|DiegoS@spportaldemo.OnMicrosoft.com
+Etsy,ets-opp-016,JoniS@spportaldemo.OnMicrosoft.com|MeganB@spportaldemo.OnMicrosoft.com
+Etsy,ets-opp-017,MeganB@spportaldemo.OnMicrosoft.com|NestorW@spportaldemo.OnMicrosoft.com|AlexW@spportaldemo.OnMicrosoft.com|IsaiahL@spportaldemo.OnMicrosoft.com
+Etsy,ets-opp-018,NestorW@spportaldemo.OnMicrosoft.com|PattiF@spportaldemo.OnMicrosoft.com|AllanD@spportaldemo.OnMicrosoft.com|MeganB@spportaldemo.OnMicrosoft.com
+Ford,for-opp-019,IsaiahL@spportaldemo.OnMicrosoft.com|PattiF@spportaldemo.OnMicrosoft.com|JoniS@spportaldemo.OnMicrosoft.com
+Ford,for-opp-020,JoniS@spportaldemo.OnMicrosoft.com|IsaiahL@spportaldemo.OnMicrosoft.com
+Fiat,fia-opp-021,AllanD@spportaldemo.OnMicrosoft.com|LynneR@spportaldemo.OnMicrosoft.com|IsaiahL@spportaldemo.OnMicrosoft.com|NestorW@spportaldemo.OnMicrosoft.com
+Fiat,fia-opp-022,AlexW@spportaldemo.OnMicrosoft.com|IsaiahL@spportaldemo.OnMicrosoft.com
+Fiat,fia-opp-023,AlexW@spportaldemo.OnMicrosoft.com|JoniS@spportaldemo.OnMicrosoft.com|DiegoS@spportaldemo.OnMicrosoft.com
+Fiat,fia-opp-024,DiegoS@spportaldemo.OnMicrosoft.com|NestorW@spportaldemo.OnMicrosoft.com
+Garmin,gar-opp-025,AllanD@spportaldemo.OnMicrosoft.com|MeganB@spportaldemo.OnMicrosoft.com
+Garmin,gar-opp-026,AllanD@spportaldemo.OnMicrosoft.com|JoniS@spportaldemo.OnMicrosoft.com|DiegoS@spportaldemo.OnMicrosoft.com
+Garmin,gar-opp-027,IsaiahL@spportaldemo.OnMicrosoft.com|AlexW@spportaldemo.OnMicrosoft.com
+Garmin,gar-opp-028,MeganB@spportaldemo.OnMicrosoft.com|AllanD@spportaldemo.OnMicrosoft.com|AlexW@spportaldemo.OnMicrosoft.com|DiegoS@spportaldemo.OnMicrosoft.com
+Gibson,gib-opp-029,JoniS@spportaldemo.OnMicrosoft.com|PattiF@spportaldemo.OnMicrosoft.com
+Gibson,gib-opp-030,AlexW@spportaldemo.OnMicrosoft.com|DiegoS@spportaldemo.OnMicrosoft.com|JoniS@spportaldemo.OnMicrosoft.com
+Gibson,gib-opp-031,AllanD@spportaldemo.OnMicrosoft.com|PattiF@spportaldemo.OnMicrosoft.com
+Gibson,gib-opp-032,AllanD@spportaldemo.OnMicrosoft.com|LynneR@spportaldemo.OnMicrosoft.com|MeganB@spportaldemo.OnMicrosoft.com
+Heinz,hei-opp-033,AllanD@spportaldemo.OnMicrosoft.com|MeganB@spportaldemo.OnMicrosoft.com
+Heinz,hei-opp-034,NestorW@spportaldemo.OnMicrosoft.com|PattiF@spportaldemo.OnMicrosoft.com|IsaiahL@spportaldemo.OnMicrosoft.com|DiegoS@spportaldemo.OnMicrosoft.com
+Heinz,hei-opp-035,AllanD@spportaldemo.OnMicrosoft.com|PattiF@spportaldemo.OnMicrosoft.com|MeganB@spportaldemo.OnMicrosoft.com|IsaiahL@spportaldemo.OnMicrosoft.com
+Heinz,hei-opp-036,LynneR@spportaldemo.OnMicrosoft.com|PattiF@spportaldemo.OnMicrosoft.com|AlexW@spportaldemo.OnMicrosoft.com
+H&M,h&m-opp-037,IsaiahL@spportaldemo.OnMicrosoft.com|JoniS@spportaldemo.OnMicrosoft.com|AllanD@spportaldemo.OnMicrosoft.com|NestorW@spportaldemo.OnMicrosoft.com
+H&M,h&m-opp-038,AlexW@spportaldemo.OnMicrosoft.com|DiegoS@spportaldemo.OnMicrosoft.com|MeganB@spportaldemo.OnMicrosoft.com
+H&M,h&m-opp-039,LynneR@spportaldemo.OnMicrosoft.com|AllanD@spportaldemo.OnMicrosoft.com|DiegoS@spportaldemo.OnMicrosoft.com|JoniS@spportaldemo.OnMicrosoft.com
+H&M,h&m-opp-040,AllanD@spportaldemo.OnMicrosoft.com|NestorW@spportaldemo.OnMicrosoft.com|PattiF@spportaldemo.OnMicrosoft.com
+Hewlett-Packard,hew-opp-041,AllanD@spportaldemo.OnMicrosoft.com|AlexW@spportaldemo.OnMicrosoft.com|LynneR@spportaldemo.OnMicrosoft.com|MeganB@spportaldemo.OnMicrosoft.com
+Hewlett-Packard,hew-opp-042,DiegoS@spportaldemo.OnMicrosoft.com|PattiF@spportaldemo.OnMicrosoft.com|IsaiahL@spportaldemo.OnMicrosoft.com
+Intel,int-opp-043,LynneR@spportaldemo.OnMicrosoft.com|AllanD@spportaldemo.OnMicrosoft.com
+Intel,int-opp-044,PattiF@spportaldemo.OnMicrosoft.com|AlexW@spportaldemo.OnMicrosoft.com
+JBL,jbl-opp-045,NestorW@spportaldemo.OnMicrosoft.com|LynneR@spportaldemo.OnMicrosoft.com|JoniS@spportaldemo.OnMicrosoft.com|AllanD@spportaldemo.OnMicrosoft.com
+JBL,jbl-opp-046,PattiF@spportaldemo.OnMicrosoft.com|NestorW@spportaldemo.OnMicrosoft.com
+Kraft,kra-opp-047,AlexW@spportaldemo.OnMicrosoft.com|PattiF@spportaldemo.OnMicrosoft.com|IsaiahL@spportaldemo.OnMicrosoft.com|MeganB@spportaldemo.OnMicrosoft.com
+Kraft,kra-opp-048,PattiF@spportaldemo.OnMicrosoft.com|IsaiahL@spportaldemo.OnMicrosoft.com
+Kraft,kra-opp-049,AlexW@spportaldemo.OnMicrosoft.com|PattiF@spportaldemo.OnMicrosoft.com|NestorW@spportaldemo.OnMicrosoft.com
+LiveNation,liv-opp-050,PattiF@spportaldemo.OnMicrosoft.com|IsaiahL@spportaldemo.OnMicrosoft.com
+LiveNation,liv-opp-051,PattiF@spportaldemo.OnMicrosoft.com|DiegoS@spportaldemo.OnMicrosoft.com|NestorW@spportaldemo.OnMicrosoft.com
+LiveNation,liv-opp-052,DiegoS@spportaldemo.OnMicrosoft.com|IsaiahL@spportaldemo.OnMicrosoft.com
+Miele,mie-opp-053,JoniS@spportaldemo.OnMicrosoft.com|NestorW@spportaldemo.OnMicrosoft.com
+Miele,mie-opp-054,MeganB@spportaldemo.OnMicrosoft.com|NestorW@spportaldemo.OnMicrosoft.com|AllanD@spportaldemo.OnMicrosoft.com|IsaiahL@spportaldemo.OnMicrosoft.com
+Miele,mie-opp-055,PattiF@spportaldemo.OnMicrosoft.com|IsaiahL@spportaldemo.OnMicrosoft.com|AllanD@spportaldemo.OnMicrosoft.com|NestorW@spportaldemo.OnMicrosoft.com
+Miele,mie-opp-056,AlexW@spportaldemo.OnMicrosoft.com|NestorW@spportaldemo.OnMicrosoft.com|MeganB@spportaldemo.OnMicrosoft.com
+Nivida,niv-opp-057,AlexW@spportaldemo.OnMicrosoft.com|LynneR@spportaldemo.OnMicrosoft.com|JoniS@spportaldemo.OnMicrosoft.com|IsaiahL@spportaldemo.OnMicrosoft.com
+Nivida,niv-opp-058,AllanD@spportaldemo.OnMicrosoft.com|AlexW@spportaldemo.OnMicrosoft.com
+Nivida,niv-opp-059,AlexW@spportaldemo.OnMicrosoft.com|MeganB@spportaldemo.OnMicrosoft.com|AllanD@spportaldemo.OnMicrosoft.com
+Opel,ope-opp-060,IsaiahL@spportaldemo.OnMicrosoft.com|DiegoS@spportaldemo.OnMicrosoft.com
+Opel,ope-opp-061,AllanD@spportaldemo.OnMicrosoft.com|AlexW@spportaldemo.OnMicrosoft.com
+Opel,ope-opp-062,MeganB@spportaldemo.OnMicrosoft.com|LynneR@spportaldemo.OnMicrosoft.com|PattiF@spportaldemo.OnMicrosoft.com
+Opel,ope-opp-063,LynneR@spportaldemo.OnMicrosoft.com|DiegoS@spportaldemo.OnMicrosoft.com|AlexW@spportaldemo.OnMicrosoft.com|PattiF@spportaldemo.OnMicrosoft.com
+P&G,p&g-opp-064,NestorW@spportaldemo.OnMicrosoft.com|AlexW@spportaldemo.OnMicrosoft.com|DiegoS@spportaldemo.OnMicrosoft.com
+P&G,p&g-opp-065,LynneR@spportaldemo.OnMicrosoft.com|JoniS@spportaldemo.OnMicrosoft.com
+Quest Software,que-opp-066,MeganB@spportaldemo.OnMicrosoft.com|NestorW@spportaldemo.OnMicrosoft.com
+Quest Software,que-opp-067,PattiF@spportaldemo.OnMicrosoft.com|NestorW@spportaldemo.OnMicrosoft.com|JoniS@spportaldemo.OnMicrosoft.com|AllanD@spportaldemo.OnMicrosoft.com
+Ram,ram-opp-068,NestorW@spportaldemo.OnMicrosoft.com|JoniS@spportaldemo.OnMicrosoft.com|IsaiahL@spportaldemo.OnMicrosoft.com|DiegoS@spportaldemo.OnMicrosoft.com
+Ram,ram-opp-069,MeganB@spportaldemo.OnMicrosoft.com|JoniS@spportaldemo.OnMicrosoft.com|NestorW@spportaldemo.OnMicrosoft.com|LynneR@spportaldemo.OnMicrosoft.com
+Skanska,ska-opp-070,AllanD@spportaldemo.OnMicrosoft.com|NestorW@spportaldemo.OnMicrosoft.com
+Skanska,ska-opp-071,PattiF@spportaldemo.OnMicrosoft.com|NestorW@spportaldemo.OnMicrosoft.com
+Skanska,ska-opp-072,IsaiahL@spportaldemo.OnMicrosoft.com|AlexW@spportaldemo.OnMicrosoft.com|LynneR@spportaldemo.OnMicrosoft.com
+Skanska,ska-opp-073,JoniS@spportaldemo.OnMicrosoft.com|IsaiahL@spportaldemo.OnMicrosoft.com|LynneR@spportaldemo.OnMicrosoft.com|AllanD@spportaldemo.OnMicrosoft.com
+Saab,saa-opp-074,AlexW@spportaldemo.OnMicrosoft.com|MeganB@spportaldemo.OnMicrosoft.com|IsaiahL@spportaldemo.OnMicrosoft.com|AllanD@spportaldemo.OnMicrosoft.com
+Saab,saa-opp-075,NestorW@spportaldemo.OnMicrosoft.com|IsaiahL@spportaldemo.OnMicrosoft.com|AlexW@spportaldemo.OnMicrosoft.com
+Saab,saa-opp-076,AllanD@spportaldemo.OnMicrosoft.com|LynneR@spportaldemo.OnMicrosoft.com|MeganB@spportaldemo.OnMicrosoft.com|PattiF@spportaldemo.OnMicrosoft.com
+Saab,saa-opp-077,MeganB@spportaldemo.OnMicrosoft.com|LynneR@spportaldemo.OnMicrosoft.com|JoniS@spportaldemo.OnMicrosoft.com|DiegoS@spportaldemo.OnMicrosoft.com
+Tidewater Corporation,tid-opp-078,PattiF@spportaldemo.OnMicrosoft.com|AllanD@spportaldemo.OnMicrosoft.com|JoniS@spportaldemo.OnMicrosoft.com|LynneR@spportaldemo.OnMicrosoft.com
+Tidewater Corporation,tid-opp-079,IsaiahL@spportaldemo.OnMicrosoft.com|DiegoS@spportaldemo.OnMicrosoft.com
+Tidewater Corporation,tid-opp-080,AlexW@spportaldemo.OnMicrosoft.com|DiegoS@spportaldemo.OnMicrosoft.com
+Unisys,uni-opp-081,NestorW@spportaldemo.OnMicrosoft.com|IsaiahL@spportaldemo.OnMicrosoft.com|AlexW@spportaldemo.OnMicrosoft.com|JoniS@spportaldemo.OnMicrosoft.com
+Unisys,uni-opp-082,IsaiahL@spportaldemo.OnMicrosoft.com|AllanD@spportaldemo.OnMicrosoft.com
+Unisys,uni-opp-083,LynneR@spportaldemo.OnMicrosoft.com|NestorW@spportaldemo.OnMicrosoft.com|AllanD@spportaldemo.OnMicrosoft.com
+Vodaphone,vod-opp-084,NestorW@spportaldemo.OnMicrosoft.com|AllanD@spportaldemo.OnMicrosoft.com|PattiF@spportaldemo.OnMicrosoft.com|JoniS@spportaldemo.OnMicrosoft.com
+Vodaphone,vod-opp-085,AlexW@spportaldemo.OnMicrosoft.com|LynneR@spportaldemo.OnMicrosoft.com
+Vodaphone,vod-opp-086,JoniS@spportaldemo.OnMicrosoft.com|PattiF@spportaldemo.OnMicrosoft.com|NestorW@spportaldemo.OnMicrosoft.com|IsaiahL@spportaldemo.OnMicrosoft.com
+Vodaphone,vod-opp-087,PattiF@spportaldemo.OnMicrosoft.com|AllanD@spportaldemo.OnMicrosoft.com|MeganB@spportaldemo.OnMicrosoft.com|IsaiahL@spportaldemo.OnMicrosoft.com
+Wagner Electric,wag-opp-088,MeganB@spportaldemo.OnMicrosoft.com|IsaiahL@spportaldemo.OnMicrosoft.com|AlexW@spportaldemo.OnMicrosoft.com
+Wagner Electric,wag-opp-089,AlexW@spportaldemo.OnMicrosoft.com|NestorW@spportaldemo.OnMicrosoft.com|DiegoS@spportaldemo.OnMicrosoft.com
+Wagner Electric,wag-opp-090,AlexW@spportaldemo.OnMicrosoft.com|JoniS@spportaldemo.OnMicrosoft.com|AllanD@spportaldemo.OnMicrosoft.com|PattiF@spportaldemo.OnMicrosoft.com
+Wagner Electric,wag-opp-091,AlexW@spportaldemo.OnMicrosoft.com|LynneR@spportaldemo.OnMicrosoft.com|NestorW@spportaldemo.OnMicrosoft.com
+Xeccon,xec-opp-092,JoniS@spportaldemo.OnMicrosoft.com|AlexW@spportaldemo.OnMicrosoft.com
+Xeccon,xec-opp-093,PattiF@spportaldemo.OnMicrosoft.com|MeganB@spportaldemo.OnMicrosoft.com|IsaiahL@spportaldemo.OnMicrosoft.com
+Xeccon,xec-opp-094,LynneR@spportaldemo.OnMicrosoft.com|IsaiahL@spportaldemo.OnMicrosoft.com
+Yahoo,yah-opp-095,AllanD@spportaldemo.OnMicrosoft.com|MeganB@spportaldemo.OnMicrosoft.com|JoniS@spportaldemo.OnMicrosoft.com
+Yahoo,yah-opp-096,IsaiahL@spportaldemo.OnMicrosoft.com|JoniS@spportaldemo.OnMicrosoft.com
+Zara,zar-opp-097,IsaiahL@spportaldemo.OnMicrosoft.com|NestorW@spportaldemo.OnMicrosoft.com
+Zara,zar-opp-098,NestorW@spportaldemo.OnMicrosoft.com|AllanD@spportaldemo.OnMicrosoft.com|MeganB@spportaldemo.OnMicrosoft.com|DiegoS@spportaldemo.OnMicrosoft.com
+Zara,zar-opp-099,DiegoS@spportaldemo.OnMicrosoft.com|AllanD@spportaldemo.OnMicrosoft.com
+Zara,zar-opp-100,NestorW@spportaldemo.OnMicrosoft.com|JoniS@spportaldemo.OnMicrosoft.com|LynneR@spportaldemo.OnMicrosoft.com

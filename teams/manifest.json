@@ -1,0 +1,55 @@
+{
+  "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.9/MicrosoftTeams.schema.json",
+  "manifestVersion": "1.9",
+  "version": "1.0.4",
+  "isFullScreen": true,
+  "id": "bacdf86c-f97c-45f9-a2bd-3fb15f0b3751",
+  "packageName": "com.ubs.portal",
+  "developer": {
+    "name": "MCS/UBS",
+    "websiteUrl": "https://www.ubs.com/",
+    "privacyUrl": "https://www.ubs.com/global/en/legal/privacy.html",
+    "termsOfUseUrl": "https://www.ubs.com/global/en/legal/disclaimer.html"
+  },
+  "icons": {
+    "color": "color.png",
+    "outline": "outline.png"
+  },
+  "name": {
+    "short": "UBS Portal",
+    "full": ""
+  },
+  "description": {
+    "short": "Document Portal",
+    "full": "Access and manage documents directly in Teams"
+  },
+  "accentColor": "#FFFFFF",
+  "staticTabs": [
+    {
+      "entityId": "202104",
+      "name": "Portal",
+      "contentUrl": "https://ubscloudeng.sharepoint.com/_layouts/15/TeamsLogon.aspx?SPFX=true&dest=/_layouts/15/teamshostedapp.aspx%3Fteams%26personal%26componentId=da398eae-7226-419a-894a-58063829d340",
+      "websiteUrl": "https://ubscloudeng.sharepoint.com/",
+      "scopes": ["personal"]
+    },
+    {
+      "entityId": "about",
+      "scopes": ["personal"]
+    }
+  ],
+  "permissions": ["identity", "messageTeamMembers"],
+  "validDomains": [
+    "ubscloudeng.sharepoint.com",
+    "*.login.microsoftonline.com",
+    "*.sharepoint.com",
+    "*.sharepoint-df.com",
+    "spoppe-a.akamaihd.net",
+    "spoprod-a.akamaihd.net",
+    "resourceseng.blob.core.windows.net",
+    "msft.spoppe.com"
+  ],
+  "webApplicationInfo": {
+    "resource": "https://ubscloudeng.sharepoint.com/",
+    "id": "{SharePoint Online Client Extensibility Web Application Principal ID}"
+  }
+}
