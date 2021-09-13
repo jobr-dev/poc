@@ -43,7 +43,7 @@ export default class Portal extends React.Component<
   IPortalState
 > {
   private activitiesInterval: number;
-  private recentInterval: number;
+  // private recentInterval: number;
   private searchService: SearchService;
   private pinService: PinService;
   private activityHelper: ActivitiesHelper;
@@ -95,16 +95,16 @@ export default class Portal extends React.Component<
   public async componentDidMount() {
     await this.getAllOpportunities();
     await this.getPinnedFiles();
-    await this.getRecentContent();
+    // await this.getRecentContent();
     this.setState({ loading: false });
 
     this.activitiesInterval = setInterval(() => this.updateActivities(), 60000);
-    this.recentInterval = setInterval(() => this.getRecentContent(), 90000);
+    // this.recentInterval = setInterval(() => this.getRecentContent(), 90000);
   }
 
   public componentWillUnmount() {
     clearInterval(this.activitiesInterval);
-    clearInterval(this.recentInterval);
+    // clearInterval(this.recentInterval);
   }
 
   private async getAllOpportunities() {
@@ -235,7 +235,7 @@ export default class Portal extends React.Component<
       this.pinService.unpin(opp.url, SocialActorType.Site);
     }
 
-    this.updateRecentContent(opp.url, !opp.pinned, false);
+    // this.updateRecentContent(opp.url, !opp.pinned, false);
   }
 
   private changePinForOpportunityFile(oppFile: OpportunityFile): void {
@@ -255,7 +255,7 @@ export default class Portal extends React.Component<
       });
       this.pinService.unpin(oppFile.url, SocialActorType.Document);
     }
-    this.updateRecentContent(oppFile.url, !oppFile.pinned, true);
+    // this.updateRecentContent(oppFile.url, !oppFile.pinned, true);
   }
 
   private setShowAllOpps(showAll: boolean): void {
@@ -339,7 +339,7 @@ export default class Portal extends React.Component<
                   }
                 />
               </PivotItem>
-              <PivotItem headerText="Recent" itemKey="2">
+              {/*               <PivotItem headerText="Recent" itemKey="2">
                 <MenuSeperator title="Recent" />
                 <Recent
                   files={this.state.recentFiles}
@@ -364,7 +364,7 @@ export default class Portal extends React.Component<
                     this.setNotifyMembersOppFile(oppFile)
                   }
                 />
-              </PivotItem>
+              </PivotItem> */}
               <PivotItem headerText="Find" itemKey="3">
                 <MenuSeperator title="Find" />
                 <Find

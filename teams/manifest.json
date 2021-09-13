@@ -1,7 +1,7 @@
 {
   "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.9/MicrosoftTeams.schema.json",
   "manifestVersion": "1.9",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "isFullScreen": true,
   "id": "bacdf86c-f97c-45f9-a2bd-3fb15f0b3751",
   "packageName": "com.ubs.portal",
@@ -28,7 +28,7 @@
     {
       "entityId": "202104",
       "name": "Portal",
-      "contentUrl": "https://ubscloudeng.sharepoint.com/_layouts/15/TeamsLogon.aspx?SPFX=true&dest=/_layouts/15/teamshostedapp.aspx%3Fteams%26personal%26componentId=da398eae-7226-419a-894a-58063829d340",
+      "contentUrl": "https://ubscloudeng.sharepoint.com/teams/BankerPortalDocumentsApp/_layouts/15/TeamsLogon.aspx?SPFX=true&dest=/teams/BankerPortalDocumentsApp/_layouts/15/teamshostedapp.aspx%3Fteams%26personal%26componentId=da398eae-7226-419a-894a-58063829d340",
       "websiteUrl": "https://ubscloudeng.sharepoint.com/",
       "scopes": ["personal"]
     },
@@ -50,6 +50,6 @@
   ],
   "webApplicationInfo": {
     "resource": "https://ubscloudeng.sharepoint.com/",
-    "id": "{SharePoint Online Client Extensibility Web Application Principal ID}"
+    "id": "00000003-0000-0ff1-ce00-000000000000"
   }
 }

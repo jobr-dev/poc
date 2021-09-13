@@ -37,7 +37,7 @@ export default class PinService {
             const current = files[index];
 
             try {
-                var web = Web(current.Uri.split("/Shared%20Documents/")[0]);
+                var web = Web(current.Uri.split("/Shared Documents/")[0]);
 
                 var opportunity = await web.expand("AllProperties").select(`Title,AllProperties/${Config.Keys.SolutionKey},Url,Id`).get();
 

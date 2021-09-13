@@ -5,8 +5,7 @@ import {
   PropertyPaneTextField
 } from '@microsoft/sp-property-pane';
 import { BaseClientSideWebPart } from '@microsoft/sp-webpart-base';
-import { WebPartContext } from '@microsoft/sp-webpart-base';
-import { graph } from "@pnp/graph";
+import { sp } from "@pnp/sp";
 import * as strings from 'PortalWebPartStrings';
 import Portal from './components/Portal';
 import { IPortalProps } from './components/Portal';
@@ -40,8 +39,11 @@ export default class PortalWebPart extends BaseClientSideWebPart<IPortalWebPartP
           this.render();
         });
       }
-      graph.setup({
-        spfxContext: this.context
+      sp.setup({
+        spfxContext: this.context,
+        sp:{
+          baseUrl:this.context.pageContext.web.absoluteUrl
+        }
       });
     });
   }

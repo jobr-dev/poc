@@ -127,7 +127,7 @@ const BrowseFileView: React.FunctionComponent<BrowseFileViewProps> = (
                 current.push({
                   text: item.name,
                   key: `${currentFolder}/${item.name}`,
-                  onClick: (e, item) => breadcrumbClicked(e, item),
+                  onClick: (e, bItem) => breadcrumbClicked(e, bItem),
                 });
                 setBreadcrumbItems(current);
               }}

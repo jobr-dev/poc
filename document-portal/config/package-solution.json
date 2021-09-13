@@ -3,7 +3,7 @@
   "solution": {
     "name": "document-portal-client-side-solution",
     "id": "f0750cab-aab4-40cb-8e4c-d01790826731",
-    "version": "1.0.2.15",
+    "version": "1.0.2.16",
     "includeClientSideAssets": true,
     "skipFeatureDeployment": true,
     "isDomainIsolated": false,
@@ -15,18 +15,6 @@
       "mpnId": ""
     },
     "webApiPermissionRequests": [
-      {
-        "resource": "Microsoft Graph",
-        "scope": "Sites.ReadWrite.All"
-      },
-      {
-        "resource": "Microsoft Graph",
-        "scope": "User.Read"
-      },
-      {
-        "resource": "Microsoft Graph",
-        "scope": "People.Read"
-      }
     ]
   },
   "paths": {

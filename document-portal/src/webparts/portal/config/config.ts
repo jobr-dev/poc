@@ -6,6 +6,6 @@ export class Config {
     };
 
     public static SolutionConstant: string = "portalpoc";
-    public static Domain: string = "spportaldemo.sharepoint.com";
+    public static Domain: string = "ubscloudeng.sharepoint.com";
     public static ManagedPath: string = "/teams/";
 }
